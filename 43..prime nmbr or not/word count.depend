@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731040515 source:d:\code blocks\aray\word count\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730642353 source:d:\code blocks\aray\oo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

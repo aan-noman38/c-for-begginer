@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723444443 source:d:\code blocks\project practice\uuu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
